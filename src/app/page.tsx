@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import { useState } from "react";
 import BookingFlow from "@/components/BookingFlow";
@@ -21,8 +21,8 @@ export default function Home() {
         </button>
 
         <Link
-          href="/admin"
-          className="flex items-center gap-1 hover:text-emerald-400 transition-colors"
+          href="/login"
+          className="flex items-center gap-1 hover:text-[#dedfab] transition-colors"
         >
           <ShieldCheck className="w-3.5 h-3.5" /> Acceso Staff
         </Link>
