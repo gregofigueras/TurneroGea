@@ -52,7 +52,7 @@ export default function LoginPage() {
 
         <div className="bg-[#2a2732] border border-[#585e73]/40 rounded-3xl p-6 shadow-2xl space-y-5">
           <div className="text-center">
-            <div className="relative w-16 h-16 mx-auto mb-2">
+            <div className="relative w-24 h-12 mx-auto mb-2">
               <Image
                 src="/gea-logo.png"
                 alt="Gea Espacio de Bienestar"
